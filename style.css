@@ -1,0 +1,72 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+
+body, div, ul {
+    list-style-type: none;
+    background-color: #4D4D4D;
+}
+
+li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+header {
+    font-size: 42pt;
+    color: #ff2800;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+p {
+    color:#ffffff;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 22px;
+    padding:0 119px;
+
+}
+
+
+.border {
+    width: 93%;
+}
+
+.gallery {
+    width: 91%;
+}
+.snap {
+    width: 33.33%;
+    padding: 10px 10px;
+    float: left;
+}
+.picture {
+max-width: 100%;
+}
+
+.picture2 {
+    float: center;
+    max-width: 70%;
+    border-style: solid;
+    border-color: #f75c03;
+}
+
+.sketchfab-embed-wrapper {
+    width:"708";
+    height:"549";
+    
+}
